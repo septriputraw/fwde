@@ -99,7 +99,7 @@ body {
     min-height: 180px;
     width: 100%;
     text-align: center;
-    background-image: url("/images/hero-small.jpg");
+    background-image: url("/images/hero.jpg");
     /* background-image: var(--image-color), url('/images/heros/hero-small.jpg'); */
     background-position: center;
 }
