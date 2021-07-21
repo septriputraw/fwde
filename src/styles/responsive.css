@@ -75,6 +75,6 @@
 @media only screen and (min-width: 1024px) {
     .hero {
         min-height: 800px;
-        background-image: url("/images/hero-large.jpg");
+        background-image: url("/images/hero.jpg");
     }
 }
