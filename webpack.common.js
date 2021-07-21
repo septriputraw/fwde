@@ -79,6 +79,5 @@ module.exports = {
         }),
       ],
     }),
-    new BundleAnalyzerPlugin(),
   ],
 };
