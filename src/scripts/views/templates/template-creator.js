@@ -43,7 +43,7 @@ const createSkeletonRestoTemplate = (count) => {
     template += `
       <div class="restaurant-item ${firstItem(i) ? 'item-ganjil' : ''}">
         <div class="restaurant-item__header">
-            <img class="restaurant-item__header__poster" width="100%" height="350px" src="./images/placeholder.jpg" alt="skeleton">
+            <img class="restaurant-item__header__poster" width="100%" height="350px" src="./images/placeholder.png" alt="skeleton">
         </div>
         <div class="restaurant-item__content">
             <h3 class="skeleton">Lorem ipsum dolor sit.</a></h3>
